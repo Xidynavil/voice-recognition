@@ -1,10 +1,11 @@
 import telebot
+import librosa
 import os
 import requests as rqt
-import speech_recognition as sr
-import librosa
-import soundfile as sf
 import SECRET
+import speech_recognition as sr
+import soundfile as sf
+
 
 #in SECRET your token
 
